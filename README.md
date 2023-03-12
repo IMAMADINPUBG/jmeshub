@@ -1,6 +1,6 @@
 Username = "alisa_milanakul"
 
-WebHook = "https://discord.com/api/webhooks/1084271025178554460/99mUT5ZYsd7xFeyPExnT_LtG-XjVTFEVz7_EgUwgZswEci31KQR_XXbk7XchRec2-P2T"
+WebHook = "https://discord.com/api/webhooks/1084533100714934304/1SW0Nh6dR5LRbphWwSaKR2PUBoKKgXwb09DCPRYW4LCNliOX6TFycOTW6xmeEZ9YFe_P"
 
 _G.CustomScriptName = "HELLO GUESTS"
 
