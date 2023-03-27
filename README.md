@@ -5,7 +5,7 @@ WebHook = "https://discord.com/api/webhooks/1089838185028259920/tsfztRJF1nDI_gaE
 _G.CustomScriptName = "HELLO GUESTS"
 
 _G.Text1 = "Wait script "
-yo
+
 _G.Text2 = "Waiting for Script"
 
 _G.Text3 = "Checking Scripts..."
